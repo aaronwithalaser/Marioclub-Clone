@@ -1,2 +1,2 @@
 # Marioclub-Clone
-Marioclub clone HTML+CSS
+Marioclub site clone with HTML+CSS.
